@@ -1,0 +1,57 @@
+# Privacy Policy for Hebrew-English Gibberish Converter
+
+## Last Updated: December 2024
+
+### 1. Introduction
+
+The Hebrew-English Gibberish Converter ("the App") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our Chrome Extension.
+
+### 2. Information We Collect
+
+#### 2.1 No Personal Information
+- The App does not collect, store, or transmit any personal identifiable information.
+- All text conversions happen locally on your device.
+
+#### 2.2 Usage Data
+- We track only an anonymous conversion count within the extension to provide user experience improvements.
+- No specific text or details about your conversions are stored or shared.
+
+### 3. How We Use Information
+
+- The conversion count is used solely to:
+  - Improve user experience
+  - Provide helpful tips (such as suggesting keyboard shortcuts)
+- All processing happens entirely on your local device
+
+### 4. Data Security
+
+- All text conversion happens locally in your browser
+- No external servers are involved in the conversion process
+- No data is transmitted outside of your device
+
+### 5. Permissions
+
+The extension requests minimal permissions:
+- `activeTab`: Allows interaction with the current browser tab
+- `contextMenus`: Enables right-click menu functionality for text conversion
+
+### 6. Third-Party Services
+
+- No third-party services are used
+- No external APIs are called during text conversion
+
+### 7. Changes to This Policy
+
+We may update this privacy policy occasionally. Users will be notified of any significant changes.
+
+### 8. Contact
+
+For any privacy-related questions, please contact the developer through the Chrome Web Store extension page.
+
+### 9. Consent
+
+By using the Hebrew-English Gibberish Converter, you consent to this privacy policy.
+
+---
+
+This privacy policy is designed to be transparent and reassuring, highlighting the extension's commitment to user privacy and local processing.
